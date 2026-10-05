@@ -1,0 +1,17 @@
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.Form1.resources
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.csproj.GenerateResource.cache
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.AssemblyInfoInputs.cache
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.AssemblyInfo.cs
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.csproj.CoreCompileInputs.cache
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\bin\Debug\net10.0-windows\Bai1A.exe
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\bin\Debug\net10.0-windows\Bai1A.deps.json
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\bin\Debug\net10.0-windows\Bai1A.runtimeconfig.json
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\bin\Debug\net10.0-windows\Bai1A.dll
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\bin\Debug\net10.0-windows\Bai1A.pdb
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.dll
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\refint\Bai1A.dll
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.pdb
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.genruntimeconfig.cache
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\ref\Bai1A.dll
+D:\C#\BaitapThuchanh\Bai1A\Bai1A\obj\Debug\net10.0-windows\Bai1A.csproj.Up2Date
